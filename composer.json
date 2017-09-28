@@ -1,5 +1,8 @@
 {
 	"name": "ninecloud/sample-project",
+	"description": "Sample Library from Ninecloud",
+	"license": "MIT",
+	"type": "library",
 	"autoload": {
 		"psr-0": {
 			"Ninecloud\\SampleProject": "src"
