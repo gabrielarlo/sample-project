@@ -2,7 +2,7 @@
 	"name": "ninecloud/sample-project",
 	"autoload": {
 		"psr-0": {
-			"ninecloud\\SampleProject": "src"
+			"Ninecloud\\SampleProject": "src"
 		}
 	}
 }
